@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06beb6,100:48b1bf&height=250&section=header&text=👨‍💻%20Makwana%20Pankaj%20🌱&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06beb6,100:48b1bf&height=250&section=header&text=👨‍💻%20Makvana%20Pankaj%20🌱&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-Hey there! 👋 I’m **Makwana Pankaj**, a **B.Tech Agricultural Information Technology** graduate from Gujarat, India 🇮🇳.  
+Hey there! 👋 I’m **Makvana Pankaj**, a **B.Tech Agricultural Information Technology** graduate from Gujarat, India 🇮🇳.  
 I live at the intersection of **Agriculture & Technology**, exploring how AI, Machine Learning, and Data Science can transform modern farming.  
 
 💡 *I believe in blending code with crops to build smarter, sustainable solutions for tomorrow’s farmers.*  
@@ -70,12 +70,12 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajmakwana&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajmakwana&theme=radical" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajmakvana07&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajmakvana07&theme=radical" alt="Streak Stats" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankajmakwana&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pankajmakvana07&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
@@ -92,9 +92,9 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pankajmakvana07"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:makvanapankaj608@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/pankajmakvana"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -110,7 +110,7 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 
 <!-- Snake animation -->
 <p align="center">
-  <img src="https://github.com/pankajmakwana/pankajmakwana/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/pankajmakvana07/pankajmakvana07/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <!-- Footer -->
