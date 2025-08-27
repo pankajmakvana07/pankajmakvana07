@@ -95,7 +95,7 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 <p align="center">
   <a href="https://linkedin.com/in/pankajmakvana07"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:makvanapankaj608@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/pankajmakvana07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/makvana711"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
