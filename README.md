@@ -16,8 +16,8 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 
 ## 🚀 What I Do  
 
-- 🌾 **AgriTech Researcher** → Working on **crop growth prediction models**, **remote sensing**, and **weather-driven analytics**.  
 - 🖥️ **Full-Stack Developer** → MERN + .NET + SQL projects (dashboards, monitoring tools, smart systems).  
+- 🌾 **AgriTech Researcher** → Working on **crop growth prediction models**, **remote sensing**, and **weather-driven analytics**.  
 - 🤖 **AI Enthusiast** → Applying ML & GIS for **agriculture**, **climate resilience**, and **automation**.  
 - 📊 **Data Wrangler** → Love turning messy datasets (soil, weather, satellite images) into actionable insights.  
 - 🛠️ **Problem Solver** → I see complex execution problems as opportunities to build something useful.  
@@ -71,11 +71,12 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankajmakvana07&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajmakvana07&theme=radical" alt="Streak Stats" height="180"/>
+<!--   <img src="https://streak-stats.demolab.com?user=pankajmakvana07&theme=radical" alt="Streak Stats" height="180"/> -->
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankajmakvana07&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=pankajmakvana07&theme=radical&margin-w=15&margin-h=15" /> -->
+
 </p>
 
 ---
@@ -94,7 +95,7 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 <p align="center">
   <a href="https://linkedin.com/in/pankajmakvana07"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:makvanapankaj608@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/pankajmakvana"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/pankajmakvana07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
@@ -102,18 +103,15 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 ## ⚡ Fun Facts  
 
 - 🌟 I mix **tech + farming** in most of my projects.  
-- 🎧 Code with **lofi beats** on repeat.  
-- 🐍 Love adding little **games/snakes** in my READMEs.  
 - ✨ Motto: *“If you can measure it, you can improve it.”*  
 
----
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/pankajmakvana07/pankajmakvana07/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48b1bf,100:06beb6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48b1bf,100:06beb6&height=150&section=footer&text=✨%20Create%20with%20❤%20by%20PM07%20✨&fontSize=25&fontColor=ffffff" />
 </p>
+
+
+
