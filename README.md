@@ -51,7 +51,7 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 
 ### 🚜 Crop Growth Prediction Model  
 > Built a **machine learning model** for predicting crop growth in Gujarat using soil, weather, and crop data.  
-📂 Tech: Python, Pandas, Scikit-learn  
+📂 Tech: Python, Pandas, Scikit-learn  , streamlit
 
 ### 💧 Smart Water Usage Monitoring System  
 > Developed a **desktop-based system** to track user complaints & water usage logs, automating monitoring by 80%.  
@@ -81,12 +81,13 @@ I live at the intersection of **Agriculture & Technology**, exploring how AI, Ma
 
 ---
 
-## 🎯 Goals for 2025  
+## 🎯 Goals for 2026  
 
-- 🌱 Learn **Deep Learning** for AgriTech  
-- ☁️ Explore **Cloud Computing (AWS/GCP)** for scalable models  
-- 📝 Publish a research paper on **AI in Agriculture**  
-- 🤝 Collaborate in **open-source agri projects**  
+- 🌱 Learn Deep Learning for AgriTech applications
+- ☁️ Explore Cloud Computing (AWS/GCP) for scalable AI models
+- 📡 Develop skills in IoT for Smart Agriculture (sensors, edge devices, real-time monitoring)
+- 📝 Publish a research paper on AI & IoT in Agriculture
+- 🤝 Collaborate on open-source AgriTech projects
 
 ---
 
