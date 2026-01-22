@@ -7,7 +7,7 @@
 
 ## 🌟 About Me  
 
-Hey there! 👋 I’m **Makvana Pankaj**, a **B.Tech Agricultural Information Technology** graduate from Gujarat, India 🇮🇳.  
+Hey there! 👋 I’m **Makvana Pankaj**, a **B.Tech Agricultural Information Technology** graduate from Anand,Gujarat, India 🇮🇳.  
 I live at the intersection of **Agriculture & Technology**, exploring how AI, Machine Learning, and Data Science can transform modern farming.  
 
 💡 *I believe in blending code with crops to build smarter, sustainable solutions for tomorrow’s farmers.*  
